@@ -1,0 +1,1 @@
+// Migrations - Contains the migration class files of our database ( here, tables of a database since SQL is used).
